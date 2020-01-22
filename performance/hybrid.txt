@@ -1,0 +1,21 @@
+1000_unsorted: 0 ms
+1000_sorted: 0 ms
+
+5000_unsorted: 2 ms
+5000_sorted: 1 ms
+
+10000_unsorted: 7 ms
+10000_sorted: 3 ms
+
+50000_unsorted: 32 ms
+50000_sorted: 19 ms
+
+75000_unsorted: 49 ms
+75000_sorted: 37 ms
+
+100000_unsorted: 66 ms
+100000_sorted: 58 ms
+
+500000_unsorted: 371 ms
+500000_sorted: 735 ms
+
